@@ -16,5 +16,5 @@ According to wikipedia: The 26 code words in the NATO phonetic alphabet are assi
 
 A function that takes a word and translate each letter into its corresponding phonetic alphabet.
 
-# Recursive Matrix MUltiplication
+# Recursive Matrix Multiplication
 Given two 5x5 matrices as parameters, will return a third 5x5 matrix holding the result of the product of the 2 matrices.
